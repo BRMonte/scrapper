@@ -27,6 +27,12 @@ gem 'jbuilder', '~> 2.5'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
+#Nokogiri is an HTML, XML, SAX, and Reader parser. Search docs via XPath or CSS3 selectors.
+gem 'nokogiri', '~> 1.10', '>= 1.10.9'
+
+#makes consuming restful web services easy
+gem 'httparty', '~> 0.18.0'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
