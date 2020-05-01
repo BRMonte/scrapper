@@ -33,6 +33,9 @@ gem 'nokogiri', '~> 1.10', '>= 1.10.9'
 #makes consuming restful web services easy
 gem 'httparty', '~> 0.18.0'
 
+#is a Ruby debugger
+gem 'byebug', '~> 11.1', '>= 11.1.3'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
