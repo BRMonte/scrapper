@@ -28,7 +28,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 #Nokogiri is an HTML, XML, SAX, and Reader parser. Search docs via XPath or CSS3 selectors.
-gem 'nokogiri', '~> 1.10', '>= 1.10.9'
+gem 'nokogiri', '~> 1.11'
 
 #makes consuming restful web services easy
 gem 'httparty', '~> 0.18.0'
